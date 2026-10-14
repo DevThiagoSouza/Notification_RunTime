@@ -13,7 +13,7 @@ Este projeto foi desenhado utilizando princípios de **Clean Architecture**, gar
 * **Autenticação:** JWT (JSON Web Tokens)
 * **Observabilidade:** Métricas e instrumentação nativa
 * **Infraestrutura e Deploy:** Docker, Docker Compose e Terraform
-* **Arquitetura:** Hexagonal
+* **Arquitetura:** Clean Architecture
 
 ## Arquitetura e Estrutura do Projeto
 
