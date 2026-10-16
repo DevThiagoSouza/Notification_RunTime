@@ -17,6 +17,8 @@ Este projeto foi desenhado utilizando princípios de **Clean Architecture**, gar
 
 ## Arquitetura e Estrutura do Projeto
 
+![Arquitetura da Aplicação](./arquitetura/notification.drawio.png)
+
 O projeto está dividido em camadas bem definidas para facilitar a manutenção e escalabilidade:
 
 ```
